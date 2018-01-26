@@ -1,0 +1,15 @@
+Epoch: 8 Learning rate: 0.062
+0.004 (raw step: 10) perplexity: 53.348 speed: 668 wps
+0.104 (raw step: 242) perplexity: 51.003 speed: 917 wps
+0.204 (raw step: 474) perplexity: 52.270 speed: 934 wps
+0.304 (raw step: 706) perplexity: 50.982 speed: 939 wps
+0.404 (raw step: 938) perplexity: 50.232 speed: 942 wps
+0.504 (raw step: 1170) perplexity: 49.629 speed: 942 wps
+0.604 (raw step: 1402) perplexity: 48.140 speed: 926 wps
+0.703 (raw step: 1634) perplexity: 47.732 speed: 907 wps
+0.803 (raw step: 1866) perplexity: 46.307 speed: 909 wps
+0.903 (raw step: 2098) perplexity: 44.879 speed: 913 wps
+Epoch: 8 Train Perplexity: 44.383
+Epoch: 8 Valid Perplexity: 120.467
+Sample text generation by sampling: 
+ it does n't seem like blunt right to breath out toward the <unk> which will otherwise cover debt rates <eos> while at the selling h&r workers donaldson <unk> said they of <unk> <unk> became <unk> <eos> run on them always from the midland project set for hours of <unk> charities applied to local environmental cells into the <unk> <eos> in an inception the plant was have formed local actions for workers who have a more than huge headquarters <eos> now enemies over even wages or small oversight car reservations might be affected with threatening ones <unk> N N to N N the door for five years says the spirit was turned <eos> the data niche clutter along N cities were returning to <unk> which had encouraged success in the include chamber and william j. <unk> who is quietly not yet lucky <eos> still at&t should win a final player of several of the more successful number while other N song <eos> deere & chemical rose N N to N a london-based percentage upward newer steel N N <eos> <unk> energy is based in <unk> ohio <eos> house attorney general and president of macmillan <unk> president donald keenan the new york city

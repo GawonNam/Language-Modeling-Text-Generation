@@ -1,0 +1,15 @@
+Epoch: 13 Learning rate: 0.002
+0.004 (raw step: 10) perplexity: 45.743 speed: 962 wps
+0.104 (raw step: 242) perplexity: 48.877 speed: 940 wps
+0.204 (raw step: 474) perplexity: 48.190 speed: 939 wps
+0.304 (raw step: 706) perplexity: 46.978 speed: 933 wps
+0.404 (raw step: 938) perplexity: 46.744 speed: 932 wps
+0.504 (raw step: 1170) perplexity: 45.592 speed: 932 wps
+0.604 (raw step: 1402) perplexity: 44.178 speed: 933 wps
+0.703 (raw step: 1634) perplexity: 43.883 speed: 934 wps
+0.803 (raw step: 1866) perplexity: 42.558 speed: 933 wps
+0.903 (raw step: 2098) perplexity: 41.094 speed: 930 wps
+Epoch: 13 Train Perplexity: 40.905
+Epoch: 13 Valid Perplexity: 119.998
+Sample text generation by sampling: 
+ it was n't surprising however how the people virtually handle over <eos> and photography said having a definition in recent years the main legislative changes was n't connected to the world <eos> normally the contracts associated with friends and buses <eos> but this was only $ N and before the hoped of the clues operated using the cold changes made by the chicago earthquake <eos> the report is that some N industrialized diabetics are westridge the world will have legitimate advantages of bankers and lower face-to-face expense and that they make more sense and improve the minimum wage their need that debate sector carefully <unk> would be a good band of potential <eos> december is <unk> <eos> they were more <unk> than those mentioned with the yen fundamental preference <eos> a man called the <unk> <unk> <unk> <unk> ii mr. engelken played out with further patient women 's <unk> for the glare of russian computer the bpca and japan had occurred in the past over six years <eos> four family members believe that the vast <unk> of the accelerating student of south america was named because the costs of players produce a population of the paper <eos> but their nebraska cars

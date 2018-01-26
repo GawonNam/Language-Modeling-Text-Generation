@@ -1,0 +1,15 @@
+Epoch: 1 Learning rate: 1.000
+0.004 (raw step: 10) perplexity: 6242.137 speed: 695 wps
+0.104 (raw step: 242) perplexity: 843.176 speed: 668 wps
+0.204 (raw step: 474) perplexity: 622.963 speed: 680 wps
+0.304 (raw step: 706) perplexity: 504.664 speed: 683 wps
+0.404 (raw step: 938) perplexity: 436.926 speed: 684 wps
+0.504 (raw step: 1170) perplexity: 390.820 speed: 684 wps
+0.604 (raw step: 1402) perplexity: 352.903 speed: 686 wps
+0.703 (raw step: 1634) perplexity: 326.002 speed: 688 wps
+0.803 (raw step: 1866) perplexity: 304.479 speed: 689 wps
+0.903 (raw step: 2098) perplexity: 285.575 speed: 688 wps
+Epoch: 1 Train Perplexity: 271.796
+Epoch: 1 Valid Perplexity: 185.558
+Sample text generation by sampling: 
+ it is held says japanese hudson a doctor unit <eos> also rise N korotich arab describing N million to N to N jobs and erbamont told engines of the long-term union <eos> in the engelken number of created the issue to block off as this questions is high that the company follows broad weaken a five-cent gain <eos> and states nicholas laff mr. murphy 's disproportionate domestic strip pressure to west mae david <unk> safe given a financial agency for bear targets that mr. portions says might du <unk> president of the institute of <unk> favored <unk> alone that lost the <unk> up to N <eos> the current affiliate has received <eos> the mix of the clinical turned into and tell bail between the new elections hancock food care lost active money to their own provisions in a new scandal noise on the same bank <eos> the lot should provide to pay against the day ending an unusual stuff against the other drugs <eos> the demands of many of the purpose of the most mergers have enough students until their takeover-stock target i would use to the other people <unk> meeting they 're aggressive <eos> a decision for come to <unk>

@@ -1,0 +1,15 @@
+Epoch: 11 Learning rate: 0.008
+0.004 (raw step: 10) perplexity: 53.117 speed: 686 wps
+0.104 (raw step: 242) perplexity: 48.542 speed: 904 wps
+0.204 (raw step: 474) perplexity: 48.376 speed: 913 wps
+0.304 (raw step: 706) perplexity: 47.520 speed: 924 wps
+0.404 (raw step: 938) perplexity: 47.181 speed: 925 wps
+0.504 (raw step: 1170) perplexity: 46.215 speed: 927 wps
+0.604 (raw step: 1402) perplexity: 44.826 speed: 927 wps
+0.703 (raw step: 1634) perplexity: 44.397 speed: 929 wps
+0.803 (raw step: 1866) perplexity: 43.094 speed: 930 wps
+0.903 (raw step: 2098) perplexity: 41.643 speed: 931 wps
+Epoch: 11 Train Perplexity: 41.351
+Epoch: 11 Valid Perplexity: 120.283
+Sample text generation by sampling: 
+ it does not appear to be like a <unk> for the <unk> quarter <eos> mrs. ward also calls out to red <unk> when he <unk> his N years in his <unk> a treaty from mr. shapiro 's <unk> microprocessor the government earned $ N or less than a year earlier <eos> but the product reduced payments by east german foreign minister economists questioned the <unk> of what previously wanted to reflect the gold industry in tvs to see the supplier to statistics any investor increase despite <unk> in the coffee business <eos> <unk> westinghouse will retain N boeing <unk> ltd. and robert j. <unk> was appointed executive vice president <eos> it intended to be a world that invest shipbuilding equipment and <unk> mr. <unk> said <eos> a pilot leader and other proceedings in january may finance the campaign version of the senate banking committee <eos> the pennsylvania announced its proposal time by raising its security auction approval in the colony <eos> the discovery brands would help the u.s. unit 's exclusive <eos> but users of delaware relocation two months ago also reported improved net of $ N million or N cents a share <eos> <unk> managing director said p&g will be

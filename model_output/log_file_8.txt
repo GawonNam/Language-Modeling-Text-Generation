@@ -1,0 +1,15 @@
+Epoch: 9 Learning rate: 0.031
+0.004 (raw step: 10) perplexity: 51.591 speed: 661 wps
+0.104 (raw step: 242) perplexity: 49.479 speed: 904 wps
+0.204 (raw step: 474) perplexity: 50.143 speed: 903 wps
+0.304 (raw step: 706) perplexity: 49.071 speed: 909 wps
+0.404 (raw step: 938) perplexity: 48.431 speed: 916 wps
+0.504 (raw step: 1170) perplexity: 47.798 speed: 920 wps
+0.604 (raw step: 1402) perplexity: 46.335 speed: 923 wps
+0.703 (raw step: 1634) perplexity: 45.946 speed: 922 wps
+0.803 (raw step: 1866) perplexity: 44.548 speed: 924 wps
+0.903 (raw step: 2098) perplexity: 43.133 speed: 923 wps
+Epoch: 9 Train Perplexity: 42.695
+Epoch: 9 Valid Perplexity: 120.907
+Sample text generation by sampling: 
+ it was n't the place for <unk> and then ever possible neighbors <eos> straight in that case <unk> limits earnings and officially might be sued <eos> that 's often resolved beyond this country last year that the situation went back through to five years have been reported by $ N million about $ N in that will survive <eos> that 's impossible back to hire the eddington carrier 's name whose high-risk roe <unk> oil towns and food and television service <eos> democrats <unk> researchers in newark chancery africa retained recent new views in the country recently because they not monitor holders as long as more shipping <eos> but with panamanian mountain are the major european educational staff that they can also evaluate their systems long so within one day in the case reflecting the cia 's <unk> headquarters <eos> they are blocking forever and they are rush to learn out there and it 's that faced with the new structure <eos> until most of the N people who want four years <unk> the military site for instance a second <unk> of a communications facility were stolen and accepted all on their wood <eos> taken by the press set the best

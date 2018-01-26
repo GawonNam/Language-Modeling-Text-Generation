@@ -1,0 +1,15 @@
+Epoch: 5 Learning rate: 0.500
+0.004 (raw step: 10) perplexity: 84.202 speed: 521 wps
+0.104 (raw step: 242) perplexity: 73.549 speed: 660 wps
+0.204 (raw step: 474) perplexity: 77.639 speed: 674 wps
+0.304 (raw step: 706) perplexity: 74.652 speed: 681 wps
+0.404 (raw step: 938) perplexity: 73.757 speed: 683 wps
+0.504 (raw step: 1170) perplexity: 72.648 speed: 684 wps
+0.604 (raw step: 1402) perplexity: 70.633 speed: 695 wps
+0.703 (raw step: 1634) perplexity: 70.242 speed: 696 wps
+0.803 (raw step: 1866) perplexity: 68.570 speed: 696 wps
+0.903 (raw step: 2098) perplexity: 66.860 speed: 692 wps
+Epoch: 5 Train Perplexity: 66.272
+Epoch: 5 Valid Perplexity: 120.887
+Sample text generation by sampling: 
+ it was playing <eos> this on the job the assassination allow rooms the author general 's $ N million loss in great western will have been converted into <unk> joint rubber in asia <eos> in a letter to a foreign company said the unit will report events of this year 's machine to write the <unk> ratings or early negligible a year to its investment right more extraordinary <eos> mr. <unk> says that any new product between coffee and paper gives <unk> <unk> as a devastating pharmaceuticals list <eos> if apple ministry 's annual settlements are more than any basis or their cost places increased in about N the capita doctrine leaped to N marks from N yen in early trading <eos> in one of a insider-trading tv contract in the u.s. u.s. bank companies began a sluggish victory in the short hand market started higher oct. N to oct. N non-u.s. computer group inc. house <eos> standard & poor 's corp. quickly plans to join <unk> 's future suit the merkur statement agency auction for mca who allied digital communications inc. since april <eos> in july vermont eurodollar outstanding were up N N in a third quarter indicating a suitor

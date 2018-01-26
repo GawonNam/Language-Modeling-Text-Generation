@@ -1,0 +1,15 @@
+Epoch: 10 Learning rate: 0.016
+0.004 (raw step: 10) perplexity: 52.091 speed: 679 wps
+0.104 (raw step: 242) perplexity: 48.923 speed: 905 wps
+0.204 (raw step: 474) perplexity: 48.967 speed: 922 wps
+0.304 (raw step: 706) perplexity: 48.142 speed: 922 wps
+0.404 (raw step: 938) perplexity: 47.653 speed: 922 wps
+0.504 (raw step: 1170) perplexity: 46.823 speed: 926 wps
+0.604 (raw step: 1402) perplexity: 45.397 speed: 928 wps
+0.703 (raw step: 1634) perplexity: 44.987 speed: 929 wps
+0.803 (raw step: 1866) perplexity: 43.648 speed: 930 wps
+0.903 (raw step: 2098) perplexity: 42.229 speed: 929 wps
+Epoch: 10 Train Perplexity: 41.857
+Epoch: 10 Valid Perplexity: 120.673
+Sample text generation by sampling: 
+ it does n't appear to be able to whole the situation but it gets on the <unk> side of the nation 's financial situation <eos> with that change the new owners ' figures have risen at at least N N in the u.s. says steven leventhal a federal advertising loan household finance director <eos> the fifth threat is the best to describe it for a labor situation <eos> indeed berlitz this could curb the <unk> congress to <unk> samples of beleaguered heart voters eventually generated <eos> there are plenty of fear <eos> poland 's labor business of future benefits paid by los angeles associations <unk> services inc. was report to purchase <unk> co. in a new management optical and l.j. hooker developer in <unk> out by the supreme court 's investigation of the securities plane <eos> mr. davis received about N N of their shares <eos> katz chief <unk> exclude him <unk> <unk> <unk> and <unk> a research and <unk> church <eos> jacobs <unk> and <unk> the two birds intend to combine our scores of jurors that the bush administration would have a guarantee of their hearts but itel supplies were allowed said polls they use and <unk> and allegedly committed

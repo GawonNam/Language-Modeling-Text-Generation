@@ -1,0 +1,15 @@
+Epoch: 4 Learning rate: 1.000
+0.004 (raw step: 10) perplexity: 97.643 speed: 557 wps
+0.104 (raw step: 242) perplexity: 87.572 speed: 687 wps
+0.204 (raw step: 474) perplexity: 95.010 speed: 690 wps
+0.304 (raw step: 706) perplexity: 92.101 speed: 692 wps
+0.404 (raw step: 938) perplexity: 91.907 speed: 693 wps
+0.504 (raw step: 1170) perplexity: 91.303 speed: 693 wps
+0.604 (raw step: 1402) perplexity: 89.586 speed: 692 wps
+0.703 (raw step: 1634) perplexity: 89.725 speed: 693 wps
+0.803 (raw step: 1866) perplexity: 88.515 speed: 694 wps
+0.903 (raw step: 2098) perplexity: 87.072 speed: 694 wps
+Epoch: 4 Train Perplexity: 86.922
+Epoch: 4 Valid Perplexity: 127.826
+Sample text generation by sampling: 
+ it has been raised fourth-quarter restrictions on their own demands <eos> the big board quoted late in frankfurt as major u.s. partners principals at the imf 's annual pressures probably which is install rose and given it to approve off a sharp wage N projection it points his private <unk> <eos> japan 's enemy in charge of an economic intentions is always solved these developers and for even protect new rules <eos> both aids could now cost dollars because the americans britain will ensure a <unk> pretty good race on cancer things <eos> despite thrust rolled up a stock market and the potential weight would choose the selling swings through <eos> according to painewebber makes some traders on corporate at as chairman of the president 's opponents for top of the navigation buy-out and his competition 's various hardly such paper he said <eos> bush 's creditors mcgovern may end up mr. chan says similar stock do n't affect whether current requirements <eos> it does today i move events for nekoosa <eos> fed executives believe that nothing is likely to position mtm cut industry funds for a full eurobonds that arrived from china bankers acknowledged <eos> but less tightly traders consented

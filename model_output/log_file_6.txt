@@ -1,0 +1,15 @@
+Epoch: 7 Learning rate: 0.125
+0.004 (raw step: 10) perplexity: 64.736 speed: 976 wps
+0.104 (raw step: 242) perplexity: 54.354 speed: 941 wps
+0.204 (raw step: 474) perplexity: 56.150 speed: 940 wps
+0.304 (raw step: 706) perplexity: 54.520 speed: 940 wps
+0.404 (raw step: 938) perplexity: 53.666 speed: 947 wps
+0.504 (raw step: 1170) perplexity: 53.094 speed: 948 wps
+0.604 (raw step: 1402) perplexity: 51.473 speed: 952 wps
+0.703 (raw step: 1634) perplexity: 51.023 speed: 953 wps
+0.803 (raw step: 1866) perplexity: 49.542 speed: 952 wps
+0.903 (raw step: 2098) perplexity: 48.125 speed: 952 wps
+Epoch: 7 Train Perplexity: 47.571
+Epoch: 7 Valid Perplexity: 119.842
+Sample text generation by sampling: 
+ it has several other use of minnesota and most fiercely dealing with of cornell <unk> beer the federal agency said <eos> deduction for the latest fiscal year ending nov. N N over the N months that we had gone last month to cover their projects in the operational <unk> <eos> after july N N when the supreme court decided efforts to develop the debt by most countries made in N can <unk> the giant strongly used and is already sanctions over <unk> users of the national solicitation and were instrumental in satisfying the business <eos> by nicaragua the u.s. provides have held in the second next four years to sizable production costs has been approved to <unk> <unk> <eos> <unk> <unk> out their founder keating previously said the company had n't yet yet been completed on the month making a letter publicly reported in the <unk> mr. thi <unk> the world closing after assumption of control <eos> to last year 's summit session in the military corp. the latest efforts are scheduled for half no signal of <unk> holding now fear it has received and the nation 's second-largest jurisdiction are <unk> its <unk> business <eos> a percent difference is that

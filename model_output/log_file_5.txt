@@ -1,0 +1,15 @@
+Epoch: 6 Learning rate: 0.250
+0.004 (raw step: 10) perplexity: 69.880 speed: 628 wps
+0.104 (raw step: 242) perplexity: 61.107 speed: 657 wps
+0.204 (raw step: 474) perplexity: 63.848 speed: 670 wps
+0.304 (raw step: 706) perplexity: 61.590 speed: 675 wps
+0.404 (raw step: 938) perplexity: 60.634 speed: 712 wps
+0.504 (raw step: 1170) perplexity: 59.883 speed: 744 wps
+0.604 (raw step: 1402) perplexity: 58.123 speed: 771 wps
+0.703 (raw step: 1634) perplexity: 57.697 speed: 791 wps
+0.803 (raw step: 1866) perplexity: 56.093 speed: 806 wps
+0.903 (raw step: 2098) perplexity: 54.549 speed: 819 wps
+Epoch: 6 Train Perplexity: 53.943
+Epoch: 6 Valid Perplexity: 119.507
+Sample text generation by sampling: 
+ it means that the social party lawyers have n't known his requirements <eos> a few days ago the odds on the alliance are scrambling to <unk> $ N billion by companies led by opposition <unk> and often one <eos> republicans argue that china will limit exports in sacramento <eos> meanwhile excluding some of the one in six of the u.s. sales funds and increasing domestic currencies to the government though august N gross <unk> at which <unk> in the west is to shut up killing N N of total voters while in a employee cities provide more smaller names to adopt <eos> at this wang 's price class the federal government has projected its intention to invest the u.s. market to help strong talks <eos> in special securities firms u.s. officials interviewed proposals for cyclical securities has long yet change a lot of hard suggestions to <unk> capital bills says <unk> <unk> the president of the alaska transportation research organization <eos> president bush is to block this <unk> prices may be <unk> <eos> they 're trying to sue a necessary N bank reports and include an increase in the u.s. and trade cut <eos> that treaty was expected <eos> a couple

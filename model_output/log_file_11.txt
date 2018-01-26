@@ -1,0 +1,15 @@
+Epoch: 12 Learning rate: 0.004
+0.004 (raw step: 10) perplexity: 45.643 speed: 606 wps
+0.104 (raw step: 242) perplexity: 48.537 speed: 909 wps
+0.204 (raw step: 474) perplexity: 48.056 speed: 907 wps
+0.304 (raw step: 706) perplexity: 47.112 speed: 918 wps
+0.404 (raw step: 938) perplexity: 46.844 speed: 923 wps
+0.504 (raw step: 1170) perplexity: 45.807 speed: 924 wps
+0.604 (raw step: 1402) perplexity: 44.428 speed: 924 wps
+0.703 (raw step: 1634) perplexity: 44.031 speed: 925 wps
+0.803 (raw step: 1866) perplexity: 42.715 speed: 925 wps
+0.903 (raw step: 2098) perplexity: 41.314 speed: 926 wps
+Epoch: 12 Train Perplexity: 41.041
+Epoch: 12 Valid Perplexity: 120.052
+Sample text generation by sampling: 
+ it continues to squeeze in that country within the past several weeks <eos> we 've seen a week after the negative said mr. <unk> knows she took up to the chance the <unk> end of a shaky market with one <unk> of the basic program to place education planning rules that the stock market is <unk> off <eos> the objectives come as rumors however of course that accounts might well account for stock options traders said <eos> commodity rates those as calculated by profit-taking canada 's $ N price bond bonds were relatively lower <eos> in the N period the bank reported N million yen on the new york stock exchange <eos> the federal treasury bond corp. has set them in january <eos> the monthly margin is on franchise than continued enough <eos> in a network construction of political and human <unk> loved the <unk> <unk> backed by certain medical equipment vacuum bills and were able to spend a safe price and fell in august N and reflected in N <eos> to some $ N million of the contract the spinoff had taken more than $ N million in times money for $ N million <eos> the usual imported tourist financial

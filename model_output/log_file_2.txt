@@ -1,0 +1,15 @@
+Epoch: 3 Learning rate: 1.000
+0.004 (raw step: 10) perplexity: 104.996 speed: 906 wps
+0.104 (raw step: 242) perplexity: 106.499 speed: 925 wps
+0.204 (raw step: 474) perplexity: 115.524 speed: 922 wps
+0.304 (raw step: 706) perplexity: 112.017 speed: 906 wps
+0.404 (raw step: 938) perplexity: 111.602 speed: 842 wps
+0.504 (raw step: 1170) perplexity: 110.219 speed: 804 wps
+0.604 (raw step: 1402) perplexity: 107.961 speed: 785 wps
+0.703 (raw step: 1634) perplexity: 107.425 speed: 771 wps
+0.803 (raw step: 1866) perplexity: 106.055 speed: 760 wps
+0.903 (raw step: 2098) perplexity: 103.948 speed: 751 wps
+Epoch: 3 Train Perplexity: 103.423
+Epoch: 3 Valid Perplexity: 133.943
+Sample text generation by sampling: 
+ it had no <unk> building for properties <eos> that 's handled if market computers hit most of such loans or sell its own <unk> right together by <unk> <unk> conventional <unk> with <unk> <eos> it inco is expected to have a former federal experience says potential measures do n't expect to put up business emergency benefits <eos> mr. <unk> said that because are likely <unk> demand but i may tell you out for our lending beyond what it did n't yet give how companies eat you will microprocessors around day-to-day costs and georgia-pacific not to buying <eos> in N congress has badly stopped to necessarily <unk> blockbuster products before by hoped it something we do n't cover things a couple they are going to get it <eos> despite harmful higher quotas mr. lawson pays so many of a maturities of current penalties and <unk> <eos> to a corporate effort they are still dependent down by president bush <eos> <unk> in the head moscow matters rated the good return in eight years optimistic and this year sen. bush has crossed mr. freeman 's contemporary support and throw she said <eos> you see any <unk> for anything <eos> indeed sanctions wishes in i
